@@ -7,7 +7,11 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
+    - navigation.footer
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+copyright: Copyright &copy; 秋州国中央政府
+extra:
+  generator: false
