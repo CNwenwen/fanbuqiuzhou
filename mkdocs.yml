@@ -9,7 +9,7 @@ theme:
     - navigation.instant.progress
     - navigation.footer
   palette:
-    primary: blue
+    primary: teal
 markdown_extensions:
   - admonition
   - pymdownx.details
