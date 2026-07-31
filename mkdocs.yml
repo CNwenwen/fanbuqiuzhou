@@ -8,6 +8,8 @@ theme:
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.footer
+  palette:
+    primary: blue
 markdown_extensions:
   - admonition
   - pymdownx.details
