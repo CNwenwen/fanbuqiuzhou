@@ -2,8 +2,6 @@
 
 秋州发布展示了秋州国最新的情报、文件、法律法规。
 
-!!! note "Phasellus posuere in sem ut cursus"
+!!! note "秋州国是一个虚构国家"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    秋州国是MC服务器中的虚构国家。
